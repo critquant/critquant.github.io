@@ -1,4 +1,5 @@
-baseURL = "https://critquant.github.io""
+baseURL = "https://critquant.github.io"
 languageCode = "en-us"
 title = "Critical Quantitative Methods Collective"
 theme = "ananke"
+
